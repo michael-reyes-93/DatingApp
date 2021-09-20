@@ -447,7 +447,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 
-datingapp.db
+API/datingapp.db
 appsettings.json
 dotnet-tools.json
 settings.json
